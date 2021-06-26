@@ -13,6 +13,13 @@
   }
 }
 
+button {
+  font-family: noto serif tc;
+}
+
+#new-quote {
+  font-size: 12px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,6 +28,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  font-family: noto serif tc;
   color: white;
 }
 
