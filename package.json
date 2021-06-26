@@ -2,7 +2,7 @@
   "name": "quote-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Uny1me.github.io/quote-app",
+  "homepage": "http://Uny1me.github.io/quote-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
