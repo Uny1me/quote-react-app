@@ -6,12 +6,12 @@ function App() {
 
     <header className="App-header d-flex align-items-center justify-content-center"
       style={{
-        backgroundImage: "url('/bg/bg-desktop.jpg')",
+        backgroundImage: "url('../bg/bg-desktop.jpg')",
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center'
       }}>
-     <QuoteApp/>
+      <QuoteApp />
     </header>
 
   );
